@@ -22,4 +22,6 @@
     <string name="media_route_menu_title">PERPANJANG</string>
     <string name="pref_category_cast">Pengaturan Pemeran</string>
     <string name="pref_enable_cast">Aktifkan atau nonaktifkan Pemeran</string>
+    <string name="title_cast_quality">Pilih Kualitas Siaran/Penyedia</string>
+    <string name="cast_not_connected">Layar tidak terhubung</string>
 </resources>
